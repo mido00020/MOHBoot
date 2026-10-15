@@ -1,0 +1,9 @@
+{
+  "version": "0.8.33",
+  "ipk": "enigma2-plugin-extensions-mohboot_0.8.33_all.ipk",
+  "sha256": "32461c1cb8d7b8909927e5a159a9b957b90513f6ac13c7b5df58424daf1f2e47",
+  "notes": {
+    "en": "New: Update screen and automatic update check.\nNew: Delete images screen.\nFixed: installing images whose folder is named brand/model (Vu+).\nFixed: the images disk is now visible inside clean images.\nFaster start-up inside images.",
+    "ar": "جديد: شاشة التحديث وفحص التحديث تلقائياً.\nجديد: شاشة حذف الصور.\nإصلاح: تثبيت الصور اللي مجلدها باسم الماركة/الموديل (Vu+).\nإصلاح: قرص الصور يظهر الآن داخل الصور النظيفة.\nإقلاع أسرع داخل الصور."
+  }
+}
