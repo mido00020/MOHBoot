@@ -1,9 +1,9 @@
 {
-  "version": "0.8.35",
-  "ipk": "enigma2-plugin-extensions-mohboot_0.8.35_all.ipk",
-  "sha256": "44ca7e2b22a6a6166c3028330ae3067e8818c2f20152a145c910a7e2dff571a0",
+  "version": "0.8.38",
+  "ipk": "enigma2-plugin-extensions-mohboot_0.8.38_all.ipk",
+  "sha256": "60fc4b4decce6d67fd08f4b593b2c84330539767f671868674fdeabe78641d37",
   "notes": {
-    "en": "Fixed: the Update screen refused the package (\"The download is not a package\").\nFaster image install.",
-    "ar": "إصلاح: شاشة التحديث كانت ترفض الحزمة (\"The download is not a package\").\nتثبيت الصور أسرع."
+    "en": "Added Python 2.7 support (VTI and other older images).\nFaster, safer image install and other fixes.",
+    "ar": "إضافة دعم بايثون 2.7 (VTI والصور القديمة).\nتثبيت الصور أسرع وأأمن وإصلاحات أخرى."
   }
 }
