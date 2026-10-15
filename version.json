@@ -1,9 +1,9 @@
 {
-  "version": "0.8.34",
-  "ipk": "enigma2-plugin-extensions-mohboot_0.8.34_all.ipk",
-  "sha256": "c978f8e139ef0f78b1a0ac925dfc4d000fa8cd80ddd317bcb9b984123630c6a5",
+  "version": "0.8.35",
+  "ipk": "enigma2-plugin-extensions-mohboot_0.8.35_all.ipk",
+  "sha256": "44ca7e2b22a6a6166c3028330ae3067e8818c2f20152a145c910a7e2dff571a0",
   "notes": {
-    "en": "Faster image install: unpacking and writing now run side by side (about 30% faster on compressed images).",
-    "ar": "تثبيت الصور أسرع: فك الضغط والكتابة يشتغلون مع بعض (حوالي 30% أسرع للصور المضغوطة)."
+    "en": "Fixed: the Update screen refused the package (\"The download is not a package\").\nFaster image install.",
+    "ar": "إصلاح: شاشة التحديث كانت ترفض الحزمة (\"The download is not a package\").\nتثبيت الصور أسرع."
   }
 }
