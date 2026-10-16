@@ -1,9 +1,9 @@
 {
-  "version": "0.8.38",
-  "ipk": "enigma2-plugin-extensions-mohboot_0.8.38_all.ipk",
-  "sha256": "60fc4b4decce6d67fd08f4b593b2c84330539767f671868674fdeabe78641d37",
+  "version": "0.9.1",
+  "ipk": "enigma2-plugin-extensions-mohboot_0.9.1_all.ipk",
+  "sha256": "1bce299a74719ab05134a0575460e744da2e43b478edf66064ad2d89cf5a913d",
   "notes": {
-    "en": "Added Python 2.7 support (VTI and other older images).\nFaster, safer image install and other fixes.",
-    "ar": "إضافة دعم بايثون 2.7 (VTI والصور القديمة).\nتثبيت الصور أسرع وأأمن وإصلاحات أخرى."
+    "en": "New: optional start-up menu. After the splash, pick the image to start with the remote (turn it on in Settings).\nFaster and smoother navigation.",
+    "ar": "جديد: قائمة إقلاع اختيارية. بعد الشاشة الأولى تختار الصورة بالريموت (تفعّلها من الإعدادات).\nتنقل أسرع وأسلس."
   }
 }
