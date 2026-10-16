@@ -1,9 +1,9 @@
 {
-  "version": "0.9.2",
-  "ipk": "enigma2-plugin-extensions-mohboot_0.9.2_all.ipk",
-  "sha256": "002f7d1da103504a6fe7cef25778545e2c84faba16a15a6a6922064ab5de91de",
+  "version": "0.9.3",
+  "ipk": "enigma2-plugin-extensions-mohboot_0.9.3_all.ipk",
+  "sha256": "e5dcdf8acef2aa972217d16edd175fee03e9d06bb411582966096fde961268d9",
   "notes": {
-    "en": "New: four selectable looks (Royal, Neon, Crimson, Glass) with a preview card that shows each image's own name - pick one in Settings.\nFixed: choosing an image in the plugin now starts it directly even when the start-up menu is on.",
-    "ar": "جديد: أربعة أشكال قابلة للاختيار (ملكي، نيون، قرمزي، زجاجي) مع بطاقة معاينة تعرض اسم كل صورة - تختارها من الإعدادات.\nإصلاح: اختيار صورة من البلجن يقلعها مباشرة حتى لو قائمة الإقلاع شغالة."
+    "en": "Fixed: the menu tiles of the Neon and Crimson looks were empty.\nNew: the look picker shows a picture of each look. Direct start after choosing an image in the plugin, even with the start-up menu on.\nShorter hints and image names fit their boxes.",
+    "ar": "إصلاح: مربعات القائمة في شكلي النيون والأحمر كانت فارغة.\nجديد: شاشة اختيار الشكل تعرض صورة لكل شكل. الإقلاع المباشر بعد اختيار صورة من البلجن حتى مع قائمة الإقلاع.\nالنصوص وأسماء الصور صارت تناسب مكانها."
   }
 }
