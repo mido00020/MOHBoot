@@ -1,9 +1,9 @@
 {
-  "version": "0.9.1",
-  "ipk": "enigma2-plugin-extensions-mohboot_0.9.1_all.ipk",
-  "sha256": "1bce299a74719ab05134a0575460e744da2e43b478edf66064ad2d89cf5a913d",
+  "version": "0.9.2",
+  "ipk": "enigma2-plugin-extensions-mohboot_0.9.2_all.ipk",
+  "sha256": "002f7d1da103504a6fe7cef25778545e2c84faba16a15a6a6922064ab5de91de",
   "notes": {
-    "en": "New: optional start-up menu. After the splash, pick the image to start with the remote (turn it on in Settings).\nFaster and smoother navigation.",
-    "ar": "جديد: قائمة إقلاع اختيارية. بعد الشاشة الأولى تختار الصورة بالريموت (تفعّلها من الإعدادات).\nتنقل أسرع وأسلس."
+    "en": "New: four selectable looks (Royal, Neon, Crimson, Glass) with a preview card that shows each image's own name - pick one in Settings.\nFixed: choosing an image in the plugin now starts it directly even when the start-up menu is on.",
+    "ar": "جديد: أربعة أشكال قابلة للاختيار (ملكي، نيون، قرمزي، زجاجي) مع بطاقة معاينة تعرض اسم كل صورة - تختارها من الإعدادات.\nإصلاح: اختيار صورة من البلجن يقلعها مباشرة حتى لو قائمة الإقلاع شغالة."
   }
 }
