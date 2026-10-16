@@ -1,9 +1,9 @@
 {
-  "version": "0.9.3",
-  "ipk": "enigma2-plugin-extensions-mohboot_0.9.3_all.ipk",
-  "sha256": "e5dcdf8acef2aa972217d16edd175fee03e9d06bb411582966096fde961268d9",
+  "version": "0.9.6",
+  "ipk": "enigma2-plugin-extensions-mohboot_0.9.6_all.ipk",
+  "sha256": "1c996daa6db1fb30fc2cb6481be556285050b730863dff00b9f90b8fbb6df8de",
   "notes": {
-    "en": "Fixed: the menu tiles of the Neon and Crimson looks were empty.\nNew: the look picker shows a picture of each look. Direct start after choosing an image in the plugin, even with the start-up menu on.\nShorter hints and image names fit their boxes.",
-    "ar": "إصلاح: مربعات القائمة في شكلي النيون والأحمر كانت فارغة.\nجديد: شاشة اختيار الشكل تعرض صورة لكل شكل. الإقلاع المباشر بعد اختيار صورة من البلجن حتى مع قائمة الإقلاع.\nالنصوص وأسماء الصور صارت تناسب مكانها."
+    "en": "Fixed: the start-up menu now shows whenever it is switched on (an old switch script is brought up to date and an old skip mark is cleared).\nFixed: the update screen on OpenATV 8.0 (modal error).\nFixed: picons are found in the image or on the disk and copied, never moved.\nShorter image titles and hints fit their boxes.",
+    "ar": "إصلاح: قائمة الإقلاع تظهر دائماً عند تفعيلها (يتم تحديث سكربت الإقلاع القديم ومسح علامة التخطي القديمة).\nإصلاح: شاشة التحديث في OpenATV 8.0 (خطأ النافذة).\nإصلاح: البيكونات تُكتشف في الصورة أو على القرص وتُنسخ ولا تُنقل.\nأسماء الصور والتلميحات القصيرة تناسب مكانها."
   }
 }
