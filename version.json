@@ -1,9 +1,9 @@
 {
-  "version": "0.9.8",
-  "ipk": "enigma2-plugin-extensions-mohboot_0.9.8_all.ipk",
-  "sha256": "5fdb69aef8f07104b8e08fcde28c8df09a4ae5e428cc89733bfac3ade328e4a4",
+  "version": "0.9.9",
+  "ipk": "enigma2-plugin-extensions-mohboot_0.9.9_all.ipk",
+  "sha256": "80d4151935ad708ca1e85ffd8a7b97e1853a34665f6c8d6c666efd38d3e7b356",
   "notes": {
-    "en": "Fixed: on some receivers an installed image did not start and the box came back in the flash image (\"cannot move /proc\"). The switch now works on them too, and the reason is written down if anything else stops it.\nThe start-up menu shows at every start while it is on.\nPicons are found in the image or on the disk and copied, never moved.",
-    "ar": "إصلاح: في بعض الأجهزة كانت الصورة المثبتة لا تقلع ويرجع الجهاز إلى صورة الفلاش (cannot move /proc). صار التبديل يعمل عليها أيضاً، ويُسجَّل السبب إذا أوقفه شيء آخر.\nقائمة الإقلاع تظهر في كل إقلاع طالما هي مفعّلة.\nالبيكونات تُكتشف في الصورة أو على القرص وتُنسخ ولا تُنقل."
+    "en": "Fixed: MOH Boot no longer moves the folders of another multiboot (like OpenATV slots). If an older version moved them by mistake, it now asks and puts them back only if you agree.\nDisk preparation: use a disk you already have without formatting, or create a new partition with a size you choose, and pick or rename the disk name.\nNew languages: Ukrainian, Russian, Polish, Turkish, German, French, Spanish, Italian, Portuguese, Dutch, Persian, Chinese, Japanese, Greek and Croatian.",
+    "ar": "إصلاح: محمد بوت ما عاد ينقل مجلدات أي ملتي بوت آخر (مثل خانات OpenATV). وإذا نقلتها نسخة قديمة بالخطأ فالحين يسألك ويرجعها فقط إذا وافقت.\nتجهيز القرص: استخدم قرصاً موجوداً بدون فورمات، أو أنشئ بارتشن جديد بحجم تختاره، واختر اسم القرص أو غيّره.\nلغات جديدة: الأوكرانية والروسية والبولندية والتركية والألمانية والفرنسية والإسبانية والإيطالية والبرتغالية والهولندية والفارسية والصينية واليابانية واليونانية والكرواتية."
   }
 }
