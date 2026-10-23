@@ -1,9 +1,9 @@
 {
-  "version": "0.9.10",
-  "ipk": "enigma2-plugin-extensions-mohboot_0.9.10_all.ipk",
-  "sha256": "b5981f6b28a492342fedd3cdf107e4717eab21fbb6dfc02ad00b92c56a876e93",
+  "version": "0.9.11",
+  "ipk": "enigma2-plugin-extensions-mohboot_0.9.11_all.ipk",
+  "sha256": "affbef8ce85cccfa38967aaaf31118ddb54fc7a7718f3e3de3bee9c09040cc89",
   "notes": {
-    "en": "Fixed: long texts in some languages (Greek, German, Russian and others) were cut or ran out of their boxes. Every text now shrinks by itself to fit its place in all looks, in titles, the information panel, details, lists and buttons.\\nThanks to everyone who reported it.",
-    "ar": "إصلاح: النصوص الطويلة في بعض اللغات (اليونانية والألمانية والروسية وغيرها) كانت تنقطع أو تطلع من مكانها. صار كل نص يصغّر حجمه تلقائياً ليناسب مكانه في كل الأشكال، في العناوين ولوحة المعلومات والتفاصيل والقوائم والأزرار.\\nشكراً لكل من أبلغ عن المشكلة."
+    "en": "Fixed: some backup images made from a running receiver failed to install with a 'linkname ... not found' error. They now install normally.\\nSlow boot problem fixed. For the fastest boot use an internal OpenViX image as your main image and an SSD hard disk instead of a USB stick.",
+    "ar": "إصلاح: بعض صور النسخ الاحتياطي المأخوذة من جهاز شغال كانت تفشل في التثبيت برسالة 'linkname ... not found'. صارت تُثبّت بشكل طبيعي.\\nتم إصلاح مشكلة بطء الإقلاع. لأفضل سرعة إقلاع استخدم صورة OpenViX على الداخلي وهارد SSD بدل فلاشة USB."
   }
 }
