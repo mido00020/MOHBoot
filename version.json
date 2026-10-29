@@ -1,9 +1,9 @@
 {
-  "version": "0.9.11",
-  "ipk": "enigma2-plugin-extensions-mohboot_0.9.11_all.ipk",
-  "sha256": "affbef8ce85cccfa38967aaaf31118ddb54fc7a7718f3e3de3bee9c09040cc89",
+  "version": "0.9.12",
+  "ipk": "enigma2-plugin-extensions-mohboot_0.9.12_all.ipk",
+  "sha256": "df30b1daf257f8b7f785f2cc83db1d7cf4e4fca1f7d7ce9dab0d3e3f4998db0f",
   "notes": {
-    "en": "Fixed: some backup images made from a running receiver failed to install with a 'linkname ... not found' error. They now install normally.\\nSlow boot problem fixed. For the fastest boot use an internal OpenViX image as your main image and an SSD hard disk instead of a USB stick.",
-    "ar": "إصلاح: بعض صور النسخ الاحتياطي المأخوذة من جهاز شغال كانت تفشل في التثبيت برسالة 'linkname ... not found'. صارت تُثبّت بشكل طبيعي.\\nتم إصلاح مشكلة بطء الإقلاع. لأفضل سرعة إقلاع استخدم صورة OpenViX على الداخلي وهارد SSD بدل فلاشة USB."
+    "en": "Fixed: Wi-Fi dropping or missing in images started from MOH Boot. MOH Boot no longer changes any start-up script of an image, and gives back the ones older versions had changed.\\nFixed: MOH Boot could not start on some images with the error 'No module named wave'.",
+    "ar": "إصلاح: انقطاع الواي فاي أو عدم ظهوره في الصور المشغّلة من MOH Boot. صار MOH Boot لا يغيّر أي سكربت إقلاع في الصورة، ويرجّع ما غيّرته النسخ القديمة.\\nإصلاح: عدم تشغيل MOH Boot على بعض الصور بسبب الخطأ 'No module named wave'."
   }
 }
