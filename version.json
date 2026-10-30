@@ -1,9 +1,9 @@
 {
-  "version": "0.9.17",
-  "ipk": "enigma2-plugin-extensions-mohboot_0.9.17_all.ipk",
-  "sha256": "3bba0d3352ab9715f98fcec9d37741aa3fa0e5764eb82d4e10b930014931532f",
+  "version": "0.9.18",
+  "ipk": "enigma2-plugin-extensions-mohboot_0.9.18_all.ipk",
+  "sha256": "271b32ca42080ad24a30baf87b8734b84f38ba49901392f86e5ebc84b5c189a3",
   "notes": {
-    "en": "New: images made for another Vu+ 4K receiver (Solo 4K, Uno 4K, Uno 4K SE, Ultimo 4K, Zero 4K, Duo 4K, Duo 4K SE) can be installed: MOH Boot puts this receiver's drivers into the image while installing it.",
-    "ar": "جديد: صار بالإمكان تثبيت صور مصنوعة لجهاز Vu+ 4K آخر (Solo 4K و Uno 4K و Uno 4K SE و Ultimo 4K و Zero 4K و Duo 4K و Duo 4K SE): يضع MOH Boot درايفرات هذا الجهاز داخل الصورة أثناء التثبيت."
+    "en": "Fixed: an image made for another Vu+ 4K receiver could stay on a black screen. MOH Boot now starts this receiver's drivers itself, from the flash image, before the image starts.",
+    "ar": "إصلاح: صورة جهاز Vu+ 4K آخر كانت قد تبقى على شاشة سوداء. صار MOH Boot يشغّل درايفرات هذا الجهاز بنفسه من صورة الفلاش قبل أن تبدأ الصورة."
   }
 }
