@@ -1,9 +1,9 @@
 {
-  "version": "0.9.18",
-  "ipk": "enigma2-plugin-extensions-mohboot_0.9.18_all.ipk",
-  "sha256": "271b32ca42080ad24a30baf87b8734b84f38ba49901392f86e5ebc84b5c189a3",
+  "version": "0.9.19",
+  "ipk": "enigma2-plugin-extensions-mohboot_0.9.19_all.ipk",
+  "sha256": "e9f75f9e5169322361470d33718d041e87cb4fce9a8c9e797d7b931007e93348",
   "notes": {
-    "en": "Fixed: an image made for another Vu+ 4K receiver could stay on a black screen. MOH Boot now starts this receiver's drivers itself, from the flash image, before the image starts.",
-    "ar": "إصلاح: صورة جهاز Vu+ 4K آخر كانت قد تبقى على شاشة سوداء. صار MOH Boot يشغّل درايفرات هذا الجهاز بنفسه من صورة الفلاش قبل أن تبدأ الصورة."
+    "en": "Fixed: an image made for another Vu+ 4K receiver now sees the model it was made for, so images that check the model (e.g. EGAMI) start their Enigma2.",
+    "ar": "إصلاح: صورة جهاز Vu+ 4K آخر صارت ترى الموديل الذي صُنعت له، فالصور التي تفحص الموديل (مثل EGAMI) يشتغل فيها Enigma2."
   }
 }
