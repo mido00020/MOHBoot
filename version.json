@@ -1,9 +1,9 @@
 {
-  "version": "0.9.12",
-  "ipk": "enigma2-plugin-extensions-mohboot_0.9.12_all.ipk",
-  "sha256": "df30b1daf257f8b7f785f2cc83db1d7cf4e4fca1f7d7ce9dab0d3e3f4998db0f",
+  "version": "0.9.16",
+  "ipk": "enigma2-plugin-extensions-mohboot_0.9.16_all.ipk",
+  "sha256": "f7ae055573bf6267abd525cfc4c686aff0e2842e1f0e1111cb9017024aed5a34",
   "notes": {
-    "en": "Fixed: Wi-Fi dropping or missing in images started from MOH Boot. MOH Boot no longer changes any start-up script of an image, and gives back the ones older versions had changed.\\nFixed: MOH Boot could not start on some images with the error 'No module named wave'.",
-    "ar": "إصلاح: انقطاع الواي فاي أو عدم ظهوره في الصور المشغّلة من MOH Boot. صار MOH Boot لا يغيّر أي سكربت إقلاع في الصورة، ويرجّع ما غيّرته النسخ القديمة.\\nإصلاح: عدم تشغيل MOH Boot على بعض الصور بسبب الخطأ 'No module named wave'."
+    "en": "New: images whose root file system is a UBI flash image (root_cfe_auto.bin, e.g. Vu+ Duo2, Solo2) can now be installed.\\nFixed: on some images (e.g. PurE2 on HiSilicon receivers) MOH Boot did not see that it was running inside an image and refused to go back to the flash image.\\nFixed: in images that start with systemd, SSH, Telnet and FTP could stay off; the disk helper of MOH Boot is no longer put into those images.",
+    "ar": "جديد: صار بالإمكان تثبيت الصور التي يكون نظام ملفاتها بصيغة UBI (الملف root_cfe_auto.bin، مثل Vu+ Duo2 و Solo2).\\nإصلاح: في بعض الصور (مثل PurE2 على أجهزة HiSilicon) لم يكن MOH Boot يعرف أنه داخل صورة فيرفض الرجوع للفلاش.\\nإصلاح: في الصور التي تعمل بـ systemd كانت خدمات SSH و Telnet و FTP قد لا تعمل، ولم يعد MOH Boot يضع سكربت القرص في هذه الصور."
   }
 }
