@@ -1,9 +1,9 @@
 {
-  "version": "0.9.16",
-  "ipk": "enigma2-plugin-extensions-mohboot_0.9.16_all.ipk",
-  "sha256": "f7ae055573bf6267abd525cfc4c686aff0e2842e1f0e1111cb9017024aed5a34",
+  "version": "0.9.17",
+  "ipk": "enigma2-plugin-extensions-mohboot_0.9.17_all.ipk",
+  "sha256": "3bba0d3352ab9715f98fcec9d37741aa3fa0e5764eb82d4e10b930014931532f",
   "notes": {
-    "en": "New: images whose root file system is a UBI flash image (root_cfe_auto.bin, e.g. Vu+ Duo2, Solo2) can now be installed.\\nFixed: on some images (e.g. PurE2 on HiSilicon receivers) MOH Boot did not see that it was running inside an image and refused to go back to the flash image.\\nFixed: in images that start with systemd, SSH, Telnet and FTP could stay off; the disk helper of MOH Boot is no longer put into those images.",
-    "ar": "جديد: صار بالإمكان تثبيت الصور التي يكون نظام ملفاتها بصيغة UBI (الملف root_cfe_auto.bin، مثل Vu+ Duo2 و Solo2).\\nإصلاح: في بعض الصور (مثل PurE2 على أجهزة HiSilicon) لم يكن MOH Boot يعرف أنه داخل صورة فيرفض الرجوع للفلاش.\\nإصلاح: في الصور التي تعمل بـ systemd كانت خدمات SSH و Telnet و FTP قد لا تعمل، ولم يعد MOH Boot يضع سكربت القرص في هذه الصور."
+    "en": "New: images made for another Vu+ 4K receiver (Solo 4K, Uno 4K, Uno 4K SE, Ultimo 4K, Zero 4K, Duo 4K, Duo 4K SE) can be installed: MOH Boot puts this receiver's drivers into the image while installing it.",
+    "ar": "جديد: صار بالإمكان تثبيت صور مصنوعة لجهاز Vu+ 4K آخر (Solo 4K و Uno 4K و Uno 4K SE و Ultimo 4K و Zero 4K و Duo 4K و Duo 4K SE): يضع MOH Boot درايفرات هذا الجهاز داخل الصورة أثناء التثبيت."
   }
 }
