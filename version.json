@@ -1,9 +1,9 @@
 {
-  "version": "0.9.19",
-  "ipk": "enigma2-plugin-extensions-mohboot_0.9.19_all.ipk",
-  "sha256": "e9f75f9e5169322361470d33718d041e87cb4fce9a8c9e797d7b931007e93348",
+  "version": "0.9.20",
+  "ipk": "enigma2-plugin-extensions-mohboot_0.9.20_all.ipk",
+  "sha256": "515a5545ff78d684ec5ff897ffcd9c20153a52f6d33d7c3cfd75bdb638286f15",
   "notes": {
-    "en": "Fixed: an image made for another Vu+ 4K receiver now sees the model it was made for, so images that check the model (e.g. EGAMI) start their Enigma2.",
-    "ar": "إصلاح: صورة جهاز Vu+ 4K آخر صارت ترى الموديل الذي صُنعت له، فالصور التي تفحص الموديل (مثل EGAMI) يشتغل فيها Enigma2."
+    "en": "New: image backup in Settings. Pick the images and the format (ZIP like a USB flash backup, TAR.GZ, TAR.BZ2, TAR.XZ); backups are saved in the MOHBoot_Backup folder, one folder per image, and show up in Install. Fixed: installing no longer refuses disks that still have plenty of free file entries (inodes).",
+    "ar": "جديد: النسخ الاحتياطي للصور من الإعدادات. اختر الصور والصيغة (ZIP مثل نسخة الفلاش على USB، أو TAR.GZ أو TAR.BZ2 أو TAR.XZ)، وتُحفظ النسخ في مجلد MOHBoot_Backup لكل صورة مجلد خاص، وتظهر في شاشة التثبيت. إصلاح: التثبيت ما عاد يرفض الأقراص اللي فيها مساحة ملفات (inodes) كافية."
   }
 }
