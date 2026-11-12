@@ -1,9 +1,9 @@
 {
-  "version": "0.9.20",
-  "ipk": "enigma2-plugin-extensions-mohboot_0.9.20_all.ipk",
-  "sha256": "515a5545ff78d684ec5ff897ffcd9c20153a52f6d33d7c3cfd75bdb638286f15",
+  "version": "0.9.21",
+  "ipk": "enigma2-plugin-extensions-mohboot_0.9.21_all.ipk",
+  "sha256": "f4745e5f325ea4e31a464e3f6c7ca00f447853bd996a6eabdb942dadc106e2e1",
   "notes": {
-    "en": "New: image backup in Settings. Pick the images and the format (ZIP like a USB flash backup, TAR.GZ, TAR.BZ2, TAR.XZ); backups are saved in the MOHBoot_Backup folder, one folder per image, and show up in Install. Fixed: installing no longer refuses disks that still have plenty of free file entries (inodes).",
-    "ar": "جديد: النسخ الاحتياطي للصور من الإعدادات. اختر الصور والصيغة (ZIP مثل نسخة الفلاش على USB، أو TAR.GZ أو TAR.BZ2 أو TAR.XZ)، وتُحفظ النسخ في مجلد MOHBoot_Backup لكل صورة مجلد خاص، وتظهر في شاشة التثبيت. إصلاح: التثبيت ما عاد يرفض الأقراص اللي فيها مساحة ملفات (inodes) كافية."
+    "en": "Fixed: the original Black Hole images (not OpenBH) no longer stop on the start logo. They looked for a file that only their own kernel makes; MOH Boot now prepares the image for the receiver's kernel. Images already installed are prepared the next time you choose them. Image backup and the inode fix from 0.9.20 are included.",
+    "ar": "إصلاح: صور بلاك هول الأصلية (مو OpenBH) ما عادت توقف على لوقو التشغيل. كانت تدوّر على ملف يسويه كيرنلها هي بس، والحين MOH Boot يجهّز الصورة لكيرنل الجهاز. الصور المثبتة من قبل تتجهز أول ما تختارها. ومعه النسخ الاحتياطي وإصلاح الـ inodes من 0.9.20."
   }
 }
